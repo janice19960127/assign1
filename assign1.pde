@@ -22,12 +22,12 @@ bg1x=0;
 bg2x=-640;
   
  
-  hp=loadImage("hp.png");
-  bg1=loadImage("bg1.png");
-  bg2=loadImage("bg2.png");
-  enemy=loadImage("enemy.png");
-  fighter=loadImage("fighter.png");
-  treasure=loadImage("treasure.png");
+  hp=loadImage("img/hp.png");
+  bg1=loadImage("img/bg1.png");
+  bg2=loadImage("img/bg2.png");
+  enemy=loadImage("img/enemy.png");
+  fighter=loadImage("img/fighter.png");
+  treasure=loadImage("img/treasure.png");
   
  
  
